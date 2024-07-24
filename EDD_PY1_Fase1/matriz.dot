@@ -1,0 +1,95 @@
+digraph MatrizCapa{ 
+ node[shape=box] 
+ rankdir=UD;
+{rank=same; 
+nodo0x1386f40[label="CABEZA\n" ,group=0]; 
+nodo0x138b978[label="Proyecto2" ,group=1]; 
+nodo0x138b9a8[label="Proyecto4" ,group=2]; 
+nodo0x138b9d8[label="Proyeto1" ,group=3]; 
+nodo0x138ba08[label="Proyecto3" ,group=4]; 
+} 
+{rank=same; 
+nodo0x138ba38[label="Estudiante1" ,group=0]; 
+} 
+{rank=same; 
+nodo0x138ba68[label="Estudiante2" ,group=0]; 
+nodo0x138bcd0[label="PY-101\nQA-1" ,group=1]; 
+} 
+{rank=same; 
+nodo0x138ba98[label="Cristian Suy" ,group=0]; 
+} 
+{rank=same; 
+nodo0x138bac8[label="Alberto Mejia" ,group=0]; 
+} 
+{rank=same; 
+nodo0x138bc10[label="Paula Fuentes" ,group=0]; 
+nodo0x138bd60[label="PY-101\nFDEV-1" ,group=1]; 
+nodo0x138be80[label="PY-100\nFDEV-2" ,group=3]; 
+} 
+{rank=same; 
+nodo0x138bdc0[label="Hector Gomez" ,group=0]; 
+} 
+{rank=same; 
+nodo0x138bc40[label="Leonardo Martinez" ,group=0]; 
+} 
+{rank=same; 
+nodo0x138bc70[label="Ebany Larios" ,group=0]; 
+nodo0x138beb0[label="PY-103\nBDEV-1" ,group=2]; 
+} 
+{rank=same; 
+nodo0x138be50[label="Lourdes Reyes" ,group=0]; 
+} 
+{rank=same; 
+nodo0x138bd00[label="Alejandro Caballeros" ,group=0]; 
+} 
+{rank=same; 
+nodo0x138bd90[label="Jonatan Gonzalez" ,group=0]; 
+} 
+{rank=same; 
+nodo0x138bca0[label="Kevyn Giron" ,group=0]; 
+} 
+{rank=same; 
+nodo0x138be20[label="Eduardo Cuevas" ,group=0]; 
+} 
+{rank=same; 
+nodo0x138bb80[label="Roberto Gomez" ,group=0]; 
+} 
+{rank=same; 
+nodo0x138bbb0[label="Sebastian Godoy" ,group=0]; 
+} 
+{rank=same; 
+nodo0x138bd30[label="Juan Augusto" ,group=0]; 
+} 
+{rank=same; 
+nodo0x138bdf0[label="Bryan Montepeque" ,group=0]; 
+} 
+nodo0x1386f40 -> nodo0x138b978 [dir=both];
+nodo0x138b978 -> nodo0x138b9a8 [dir=both];
+nodo0x138b9a8 -> nodo0x138b9d8 [dir=both];
+nodo0x138b9d8 -> nodo0x138ba08 [dir=both];
+nodo0x138ba68 -> nodo0x138bcd0 [dir=both];
+nodo0x138bc10 -> nodo0x138bd60 [dir=both];
+nodo0x138bd60 -> nodo0x138be80 [dir=both];
+nodo0x138bc70 -> nodo0x138beb0 [dir=both];
+nodo0x1386f40 -> nodo0x138ba38 [dir=both];
+nodo0x138ba38 -> nodo0x138ba68 [dir=both];
+nodo0x138ba68 -> nodo0x138ba98 [dir=both];
+nodo0x138ba98 -> nodo0x138bac8 [dir=both];
+nodo0x138bac8 -> nodo0x138bc10 [dir=both];
+nodo0x138bc10 -> nodo0x138bdc0 [dir=both];
+nodo0x138bdc0 -> nodo0x138bc40 [dir=both];
+nodo0x138bc40 -> nodo0x138bc70 [dir=both];
+nodo0x138bc70 -> nodo0x138be50 [dir=both];
+nodo0x138be50 -> nodo0x138bd00 [dir=both];
+nodo0x138bd00 -> nodo0x138bd90 [dir=both];
+nodo0x138bd90 -> nodo0x138bca0 [dir=both];
+nodo0x138bca0 -> nodo0x138be20 [dir=both];
+nodo0x138be20 -> nodo0x138bb80 [dir=both];
+nodo0x138bb80 -> nodo0x138bbb0 [dir=both];
+nodo0x138bbb0 -> nodo0x138bd30 [dir=both];
+nodo0x138bd30 -> nodo0x138bdf0 [dir=both];
+nodo0x138b978 -> nodo0x138bcd0 [dir=both];
+nodo0x138bcd0 -> nodo0x138bd60 [dir=both];
+nodo0x138b9a8 -> nodo0x138beb0 [dir=both];
+nodo0x138b9d8 -> nodo0x138be80 [dir=both];
+} 

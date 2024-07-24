@@ -1,0 +1,30 @@
+digraph MatrizCapa{ 
+ node[shape=box] 
+ rankdir=UD;
+{rank=same; 
+nodo0x1326f40[label="CABEZA\n" ,group=0]; 
+nodo0x1327250[label="P1" ,group=1]; 
+nodo0x1327298[label="P2" ,group=2]; 
+} 
+{rank=same; 
+nodo0x13274f8[label="Cristian Suy" ,group=0]; 
+nodo0x1320520[label="PY-100\nQA-1" ,group=1]; 
+} 
+{rank=same; 
+nodo0x1327540[label="Alberto Mejia" ,group=0]; 
+} 
+{rank=same; 
+nodo0x1327588[label="Paula Fuentes" ,group=0]; 
+} 
+{rank=same; 
+nodo0x13275d0[label="Hector Gomez" ,group=0]; 
+} 
+nodo0x1326f40 -> nodo0x1327250 [dir=both];
+nodo0x1327250 -> nodo0x1327298 [dir=both];
+nodo0x13274f8 -> nodo0x1320520 [dir=both];
+nodo0x1326f40 -> nodo0x13274f8 [dir=both];
+nodo0x13274f8 -> nodo0x1327540 [dir=both];
+nodo0x1327540 -> nodo0x1327588 [dir=both];
+nodo0x1327588 -> nodo0x13275d0 [dir=both];
+nodo0x1327250 -> nodo0x1320520 [dir=both];
+} 

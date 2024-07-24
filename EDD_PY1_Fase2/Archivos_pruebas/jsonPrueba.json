@@ -1,0 +1,85 @@
+{
+    "Proyectos":[
+        {
+            "id":"PY-101",
+            "nombre":"Proyecto 1",
+            "tareas": [
+                {
+                    "nombre":"Generar Consultas del area de destornilladores 1",
+                    "empleado":"FDEV-101"
+                },
+                {
+                    "nombre":"Mostrar Herramientas de trabajo",
+                    "empleado":"FDEV-414"
+                },
+                {
+                    "nombre":"Probar barra de busqueda",
+                    "empleado":"QA-123"
+                },
+                {
+                    "nombre":"tarea 4",
+                    "empleado":"FDEV-100"
+                }
+            ],
+            "prioridad":"B"
+        },
+        {
+            "id":"PY-100",
+            "nombre":"Proyecto 2",
+            "tareas":[
+                {
+                    "nombre":"Generar Consultas del area de destornilladores 2",
+                    "empleado":"FDEV-101"
+                },
+                {
+                    "nombre":"Mostrar Herramientas de trabajo",
+                    "empleado":"FDEV-414"
+                },
+                {
+                    "nombre":"Probar barra de busqueda",
+                    "empleado":"QA-123"
+                }
+            ],
+            "prioridad":"B"
+        },
+        {
+            "id":"PY-102",
+            "nombre":"Proyecto 3",
+            "tareas":[
+                {
+                    "nombre":"Generar Consultas del area de destornilladores 3",
+                    "empleado":"FDEV-101"
+                },
+                {
+                    "nombre":"Mostrar Herramientas de trabajo",
+                    "empleado":"FDEV-414"
+                }
+            ],
+            "prioridad":"A"
+        },
+        {
+            "id":"PY-103",
+            "nombre":"Hola",
+            "tareas":[],
+            "prioridad":"B"
+        },
+        {
+            "id":"PY-104",
+            "nombre":"que",
+            "tareas":[],
+            "prioridad":"A"
+        },
+        {
+            "id":"PY-105",
+            "nombre":"tal",
+            "tareas":[],
+            "prioridad":"B"
+        },
+        {
+            "id":"PY-106",
+            "nombre":"prueba",
+            "tareas":[],
+            "prioridad":"C"
+        }
+    ]
+}

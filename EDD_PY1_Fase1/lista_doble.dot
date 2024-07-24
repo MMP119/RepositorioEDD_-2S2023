@@ -1,0 +1,11 @@
+digraph listaDobleGraph { 
+ node[shape=box]; 
+nodoListaDoble0[label="PY-101\nTarea: Generar consultas\nEncargado: SC-008"];
+nodoListaDoble1[label="PY-101\nTarea: Mostrar consultas\nEncargado: SC-005"];
+nodoListaDoble2[label="PY-100\nTarea: Pruebas unitarias\nEncargado: SC-002"];
+
+nodoListaDoble0 -> nodoListaDoble1;
+nodoListaDoble1 -> nodoListaDoble0;
+nodoListaDoble1 -> nodoListaDoble2;
+nodoListaDoble2 -> nodoListaDoble1;
+} 

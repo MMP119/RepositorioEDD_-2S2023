@@ -1,0 +1,14 @@
+digraph colaGraph{ 
+ node[shape=box] 
+ rankdir=LR;
+nodoCola0x13b721c[label="PY-101\nPrioridad: A"]; 
+nodoCola0x13b754c[label="PY-102\nPrioridad: A"]; 
+nodoCola0x13b713c[label="PY-100\nPrioridad: B"]; 
+nodoCola0x13b762c[label="PY-103\nPrioridad: C"]; 
+
+
+nodoCola0x13b721c -> nodoCola0x13b754c
+nodoCola0x13b754c -> nodoCola0x13b713c
+nodoCola0x13b713c -> nodoCola0x13b762c
+nodoCola0x13b762c -> Null 
+} 

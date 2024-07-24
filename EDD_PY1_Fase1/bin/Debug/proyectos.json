@@ -1,0 +1,21 @@
+{
+    "Proyectos": [
+        {
+            "id": "PY-100",
+            "nombre": "P1",
+            "prioridad": "A",
+            "tareas": [
+                {
+                    "empleado": "SC-004",
+                    "nombre": "HOLA"
+                }
+            ]
+        },
+        {
+            "id": "PY-101",
+            "nombre": "P2",
+            "prioridad": "C",
+            "tareas": []
+        }
+    ]
+}

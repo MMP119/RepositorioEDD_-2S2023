@@ -1,0 +1,39 @@
+{
+    "Tareas": [
+        {
+            "proyecto": "PY-100",
+            "codigo": "T1-PY-100",
+            "antecesor": [],
+            "pago": "152"
+        },
+        {
+            "proyecto": "PY-100",
+            "codigo": "T2-PY-100",
+            "antecesor": [],
+            "pago": "162"
+        },
+        {
+            "proyecto": "PY-100",
+            "codigo": "T3-PY-100",
+            "antecesor": [
+                {
+                    "codigo": "T2-PY-100"
+                },
+                {
+                    "codigo": "T1-PY-100"
+                }
+            ],
+            "pago": "222"
+        },
+        {
+            "proyecto": "PY-100",
+            "codigo": "T4-PY-100",
+            "antecesor": [
+                {
+                    "codigo": "T3-PY-100"
+                }
+            ],
+            "pago": "125"
+        }
+    ]
+}

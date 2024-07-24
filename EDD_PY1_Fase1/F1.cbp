@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="F1" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/F1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/F1" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="C:/Users/marit/OneDrive/Escritorio/USAC/Segundo Semestre (2023)/LAB EDD/F1/third_party" />
+		</Compiler>
+		<Unit filename="include/Cola1.cpp" />
+		<Unit filename="include/Cola1.h" />
+		<Unit filename="include/ColaPrioridad.cpp" />
+		<Unit filename="include/ColaPrioridad.h" />
+		<Unit filename="include/Empleado.cpp" />
+		<Unit filename="include/Empleado.h" />
+		<Unit filename="include/Lista.cpp" />
+		<Unit filename="include/Lista.h" />
+		<Unit filename="include/ListaDoble.cpp" />
+		<Unit filename="include/ListaDoble.h" />
+		<Unit filename="include/Matriz.cpp" />
+		<Unit filename="include/Matriz.h" />
+		<Unit filename="include/NodoCola.cpp" />
+		<Unit filename="include/NodoCola.h" />
+		<Unit filename="include/NodoLista.cpp" />
+		<Unit filename="include/NodoLista.h" />
+		<Unit filename="include/NodoListaDoble.cpp" />
+		<Unit filename="include/NodoListaDoble.h" />
+		<Unit filename="include/NodoMatriz.cpp" />
+		<Unit filename="include/NodoMatriz.h" />
+		<Unit filename="include/Proyecto.cpp" />
+		<Unit filename="include/Proyecto.h" />
+		<Unit filename="main.cpp" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>

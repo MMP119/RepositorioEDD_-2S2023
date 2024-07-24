@@ -1,0 +1,53 @@
+{
+    "Proyectos": [
+        {
+            "id": "PY-101",
+            "nombre": "Proyecto2",
+            "tareas": [
+                {
+                    "nombre": "HOLA MUNDO",
+                    "empleado": "SC-001"
+                    
+                }
+            ],
+            "prioridad": "A"
+        },
+        {
+            "id": "PY-102",
+            "nombre": "Proyecto3",
+            
+            "tareas": [
+                {
+                    "nombre": "HOLA MARIO",
+                    "empleado": "SC-002"
+                }
+            ],
+            "prioridad": "A"
+        },
+        {
+            "id": "PY-100",
+            "nombre": "Proyecto1",
+            "tareas": [
+                {
+                    "nombre": "HOLA NUEVA",
+                    "empleado": "SC-003"
+                    
+                }
+            ],
+            "prioridad": "B"
+        },
+        {
+            "id": "PY-103",
+            "nombre": "Proyecto4",
+            
+            "tareas": [
+                {
+                    "nombre": "QUE TAL",
+                    "empleado": "SC-005"
+                    
+                }
+            ],
+            "prioridad": "C"
+        }
+    ]
+}

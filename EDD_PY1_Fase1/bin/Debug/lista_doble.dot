@@ -1,0 +1,5 @@
+digraph listaDobleGraph { 
+ node[shape=box]; 
+nodoListaDoble0[label="PY-100\nTarea: HOLA\nEncargado: SC-004"];
+
+} 

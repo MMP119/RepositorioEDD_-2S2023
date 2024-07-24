@@ -1,0 +1,528 @@
+# depslib dependency file v1.0
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\colaprioridad.cpp
+	"ColaPrioridad.h"
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\colaprioridad.h
+	"NodoCola.h"
+	"Proyecto.h"
+	<string>
+	<iostream>
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\nodocola.h
+	"Proyecto.h"
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\proyecto.h
+	<string>
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\empleado.cpp
+	"Empleado.h"
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\empleado.h
+	<string>
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\lista.cpp
+	"Lista.h"
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\lista.h
+	"NodoLista.h"
+	<string>
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstring>
+	<sstream>
+	<stdlib.h>
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\nodolista.h
+	<string>
+	"Empleado.h"
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\matriz.cpp
+	"Matriz.h"
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\matriz.h
+	<fstream>
+	<iostream>
+	<string>
+	<string.h>
+	"NodoMatriz.h"
+	"NodoLista.h"
+	"ColaPrioridad.h"
+	"Proyecto.h"
+	"Empleado.h"
+	"Lista.h"
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\nodomatriz.h
+	<string>
+	"Proyecto.h"
+	"Empleado.h"
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\nodocola.cpp
+	"NodoCola.h"
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\nodolista.cpp
+	"NodoLista.h"
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\nodomatriz.cpp
+	"NodoMatriz.h"
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\ej clases\f1\include\proyecto.cpp
+	"Proyecto.h"
+
+1693341279 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\colaprioridad.cpp
+	"ColaPrioridad.h"
+
+1693282191 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\colaprioridad.h
+	"NodoCola.h"
+	"Proyecto.h"
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\nodocola.h
+	"Proyecto.h"
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\proyecto.h
+	<string>
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\empleado.cpp
+	"Empleado.h"
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\empleado.h
+	<string>
+
+1693373400 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\lista.cpp
+	"Lista.h"
+
+1693373400 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\lista.h
+	"NodoLista.h"
+	<string>
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstring>
+	<sstream>
+	<stdlib.h>
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\nodolista.h
+	<string>
+	"Empleado.h"
+
+1693413081 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\matriz.cpp
+	"Matriz.h"
+	"json.hpp"
+	<iomanip>
+	<fstream>
+	<vector>
+	<utility>
+
+1693412251 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\matriz.h
+	<fstream>
+	<iostream>
+	<string>
+	<string.h>
+	"NodoMatriz.h"
+	"NodoLista.h"
+	"ColaPrioridad.h"
+	"Proyecto.h"
+	"Empleado.h"
+	"Lista.h"
+	"json.hpp"
+	<ListaDoble.h>
+	<Cola1.h>
+
+1693171329 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\nodomatriz.h
+	<string>
+	"Proyecto.h"
+	"Empleado.h"
+	"ListaDoble.h"
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\nodocola.cpp
+	"NodoCola.h"
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\nodolista.cpp
+	"NodoLista.h"
+
+1693171329 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\nodomatriz.cpp
+	"NodoMatriz.h"
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\proyecto.cpp
+	"Proyecto.h"
+
+1693412133 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cerrno>
+	<cstring>
+	<limits>
+	<Lista.h>
+	<ColaPrioridad.h>
+	<Matriz.h>
+	<ListaDoble.h>
+	<Cola1.h>
+
+1693168646 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\nodolistadoble.cpp
+	"NodoListaDoble.h"
+
+1693168611 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\nodolistadoble.h
+	<string>
+
+1693412876 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\listadoble.cpp
+	"ListaDoble.h"
+	<iostream>
+	"json.hpp"
+	<vector>
+	<utility>
+
+1693412718 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\listadoble.h
+	"NodoListaDoble.h"
+	<string>
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstring>
+	<sstream>
+	<stdlib.h>
+	"json.hpp"
+
+1693412133 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\cola1.cpp
+	"Cola1.h"
+
+1693412133 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\include\cola1.h
+	"NodoCola.h"
+	"Proyecto.h"
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+
+1693345270 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1\third_party\json.hpp
+	<algorithm>
+	<cstddef>
+	<functional>
+	<initializer_list>
+	<iosfwd>
+	<iterator>
+	<memory>
+	<string>
+	<utility>
+	<vector>
+	<utility>
+	<algorithm>
+	<array>
+	<forward_list>
+	<iterator>
+	<map>
+	<string>
+	<tuple>
+	<type_traits>
+	<unordered_map>
+	<utility>
+	<valarray>
+	<cstddef>
+	<exception>
+	<numeric>
+	<stdexcept>
+	<string>
+	<vector>
+	<array>
+	<cstddef>
+	<cstdint>
+	<string>
+	<utility>
+	<type_traits>
+	<stdint.h>
+	<stdint.h>
+	<version>
+	<cstdlib>
+	<cassert>
+	<compare>
+	<cstddef>
+	<array>
+	<cstddef>
+	<type_traits>
+	<utility>
+	<limits>
+	<type_traits>
+	<utility>
+	<tuple>
+	<iterator>
+	<cstdint>
+	<map>
+	<memory>
+	<string>
+	<vector>
+	<cstring>
+	<string>
+	<utility>
+	<experimental/filesystem>
+	<filesystem>
+	<algorithm>
+	<iterator>
+	<string>
+	<tuple>
+	<type_traits>
+	<utility>
+	<valarray>
+	<vector>
+	<cstddef>
+	<iterator>
+	<string>
+	<tuple>
+	<utility>
+	<ranges>
+	<cstdint>
+	<tuple>
+	<utility>
+	<cstdint>
+	<cstddef>
+	<functional>
+	<algorithm>
+	<array>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<cstring>
+	<iterator>
+	<limits>
+	<string>
+	<utility>
+	<vector>
+	<array>
+	<cstddef>
+	<cstring>
+	<iterator>
+	<memory>
+	<numeric>
+	<string>
+	<type_traits>
+	<utility>
+	<cstdio>
+	<istream>
+	<cstddef>
+	<string>
+	<utility>
+	<vector>
+	<array>
+	<clocale>
+	<cstddef>
+	<cstdio>
+	<cstdlib>
+	<initializer_list>
+	<string>
+	<utility>
+	<vector>
+	<cstdint>
+	<utility>
+	<string>
+	<cmath>
+	<cstdint>
+	<functional>
+	<string>
+	<utility>
+	<vector>
+	<cstddef>
+	<limits>
+	<iterator>
+	<type_traits>
+	<cstddef>
+	<iterator>
+	<utility>
+	<type_traits>
+	<algorithm>
+	<cctype>
+	<cerrno>
+	<cstdlib>
+	<iosfwd>
+	<limits>
+	<numeric>
+	<string>
+	<utility>
+	<vector>
+	<initializer_list>
+	<utility>
+	<algorithm>
+	<array>
+	<map>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<string>
+	<utility>
+	<vector>
+	<algorithm>
+	<cstddef>
+	<iterator>
+	<memory>
+	<string>
+	<vector>
+	<ios>
+	<ostream>
+	<algorithm>
+	<array>
+	<clocale>
+	<cmath>
+	<cstddef>
+	<cstdint>
+	<cstdio>
+	<limits>
+	<string>
+	<iomanip>
+	<type_traits>
+	<utility>
+	<array>
+	<cmath>
+	<cstdint>
+	<cstring>
+	<limits>
+	<type_traits>
+	<functional>
+	<initializer_list>
+	<iterator>
+	<memory>
+	<stdexcept>
+	<type_traits>
+	<utility>
+	<vector>
+	<any>
+	<string_view>
+
+1693412133 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\cola1.cpp
+	"Cola1.h"
+
+1693412133 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\cola1.h
+	"NodoCola.h"
+	"Proyecto.h"
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\nodocola.h
+	"Proyecto.h"
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\proyecto.h
+	<string>
+
+1693341279 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\colaprioridad.cpp
+	"ColaPrioridad.h"
+
+1693282191 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\colaprioridad.h
+	"NodoCola.h"
+	"Proyecto.h"
+	<string>
+	<iostream>
+	<fstream>
+	<string>
+	<string.h>
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\empleado.cpp
+	"Empleado.h"
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\empleado.h
+	<string>
+
+1693429086 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\lista.cpp
+	"Lista.h"
+
+1693373400 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\lista.h
+	"NodoLista.h"
+	<string>
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstring>
+	<sstream>
+	<stdlib.h>
+
+1692837756 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\nodolista.h
+	<string>
+	"Empleado.h"
+
+1693412876 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\listadoble.cpp
+	"ListaDoble.h"
+	<iostream>
+	"json.hpp"
+	<vector>
+	<utility>
+
+1693412718 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\listadoble.h
+	"NodoListaDoble.h"
+	<string>
+	<iostream>
+	<fstream>
+	<string.h>
+	<cstring>
+	<sstream>
+	<stdlib.h>
+	"json.hpp"
+
+1693168611 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\nodolistadoble.h
+	<string>
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\nodocola.cpp
+	"NodoCola.h"
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\nodolista.cpp
+	"NodoLista.h"
+
+1693168646 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\nodolistadoble.cpp
+	"NodoListaDoble.h"
+
+1693171329 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\nodomatriz.cpp
+	"NodoMatriz.h"
+
+1693171329 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\nodomatriz.h
+	<string>
+	"Proyecto.h"
+	"Empleado.h"
+	"ListaDoble.h"
+
+1692837756 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\proyecto.cpp
+	"Proyecto.h"
+
+1693427690 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\matriz.cpp
+	"Matriz.h"
+	"json.hpp"
+	<iomanip>
+	<fstream>
+	<vector>
+	<utility>
+
+1693412251 c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\include\matriz.h
+	<fstream>
+	<iostream>
+	<string>
+	<string.h>
+	"NodoMatriz.h"
+	"NodoLista.h"
+	"ColaPrioridad.h"
+	"Proyecto.h"
+	"Empleado.h"
+	"Lista.h"
+	"json.hpp"
+	<ListaDoble.h>
+	<Cola1.h>
+
+1693427184 source:c:\users\marit\onedrive\escritorio\usac\segundo semestre (2023)\lab edd\f1_terminada\main.cpp
+	<iostream>
+	<sstream>
+	<fstream>
+	<string>
+	<cerrno>
+	<cstring>
+	<limits>
+	<Lista.h>
+	<ColaPrioridad.h>
+	<Matriz.h>
+	<ListaDoble.h>
+	<Cola1.h>
+

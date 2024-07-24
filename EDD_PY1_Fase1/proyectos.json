@@ -1,0 +1,42 @@
+{
+    "Proyectos": [
+        {
+            "id": "PY-101",
+            "nombre": "Proyecto2",
+            "prioridad": "A",
+            "tareas": [
+                {
+                    "empleado": "SC-008",
+                    "nombre": "Generar consultas"
+                },
+                {
+                    "empleado": "SC-005",
+                    "nombre": "Mostrar consultas"
+                }
+            ]
+        },
+        {
+            "id": "PY-103",
+            "nombre": "Proyecto4",
+            "prioridad": "A",
+            "tareas": []
+        },
+        {
+            "id": "PY-100",
+            "nombre": "Proyeto1",
+            "prioridad": "B",
+            "tareas": [
+                {
+                    "empleado": "SC-002",
+                    "nombre": "Pruebas unitarias"
+                }
+            ]
+        },
+        {
+            "id": "PY-102",
+            "nombre": "Proyecto3",
+            "prioridad": "C",
+            "tareas": []
+        }
+    ]
+}

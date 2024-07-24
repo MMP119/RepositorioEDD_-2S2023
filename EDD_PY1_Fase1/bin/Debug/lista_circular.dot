@@ -1,0 +1,16 @@
+digraph listaCircularGraph { 
+ node[shape=box]; 
+nodoLista0[label="SC-001\nNombre: Cristian Suy\nPassword: cris123"]; 
+nodoLista1[label="SC-002\nNombre: Alberto Mejia\nPassword: alb123"]; 
+nodoLista2[label="SC-003\nNombre: Paula Fuentes\nPassword: pau123"]; 
+nodoLista3[label="SC-004\nNombre: Hector Gomez\nPassword: hec123"]; 
+
+nodoLista0 -> nodoLista1;
+nodoLista1 -> nodoLista0;
+nodoLista1 -> nodoLista2;
+nodoLista2 -> nodoLista1;
+nodoLista2 -> nodoLista3;
+nodoLista3 -> nodoLista2;
+nodoLista3 -> nodoLista0;
+nodoLista0 -> nodoLista3;
+} 
