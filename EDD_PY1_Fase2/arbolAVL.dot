@@ -1,0 +1,71 @@
+digraph arbol {node [shape = record, style=filled, fillcolor=seashell2];"ID: PY-103
+Nombre: Hola
+Prioridad: B
+Nivel: 0" ;
+x1 [label="",width=.1,style=invis];
+"ID: PY-103
+Nombre: Hola
+Prioridad: B
+Nivel: 0" -> "ID: PY-101
+Nombre: Proyecto 1
+Prioridad: B
+Nivel: 1" ;
+x2 [label="",width=.1,style=invis];
+"ID: PY-101
+Nombre: Proyecto 1
+Prioridad: B
+Nivel: 1" -> "ID: PY-100
+Nombre: Proyecto 2
+Prioridad: B
+Nivel: 2" ;
+ "ID: PY-101
+Nombre: Proyecto 1
+Prioridad: B
+Nivel: 1" -> "ID: PY-102
+Nombre: Proyecto 3
+Prioridad: A
+Nivel: 2" ;
+{rank=same"ID: PY-101
+Nombre: Proyecto 1
+Prioridad: B
+Nivel: 1" -> "ID: PY-101
+Nombre: Proyecto 1
+Prioridad: B
+Nivel: 1" [style=invis]; } 
+ "ID: PY-103
+Nombre: Hola
+Prioridad: B
+Nivel: 0" -> "ID: PY-105
+Nombre: tal
+Prioridad: B
+Nivel: 1" ;
+x2 [label="",width=.1,style=invis];
+"ID: PY-105
+Nombre: tal
+Prioridad: B
+Nivel: 1" -> "ID: PY-104
+Nombre: que
+Prioridad: A
+Nivel: 2" ;
+ "ID: PY-105
+Nombre: tal
+Prioridad: B
+Nivel: 1" -> "ID: PY-106
+Nombre: prueba
+Prioridad: C
+Nivel: 2" ;
+{rank=same"ID: PY-105
+Nombre: tal
+Prioridad: B
+Nivel: 1" -> "ID: PY-105
+Nombre: tal
+Prioridad: B
+Nivel: 1" [style=invis]; } 
+{rank=same"ID: PY-103
+Nombre: Hola
+Prioridad: B
+Nivel: 0" -> "ID: PY-103
+Nombre: Hola
+Prioridad: B
+Nivel: 0" [style=invis]; } 
+}

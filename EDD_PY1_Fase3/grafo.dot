@@ -1,0 +1,7 @@
+digraph finite_state_machine { 
+ rankdir=LR;
+ node [shape = circle];
+"T3-PY-100" -> "T2-PY-100";
+"T3-PY-100" -> "T1-PY-100";
+"T4-PY-100" -> "T3-PY-100";
+}

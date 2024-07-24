@@ -1,0 +1,15 @@
+digraph arbol { 
+node[shape=record]R1539[label="<C1>|Tarea: T2-PY-101\nEncargado: FDEV-414\nProyecto: Proyecto 1|<C2>"];
+R538[label="<C1>|Tarea: T2-PY-100\nEncargado: FDEV-414\nProyecto: Proyecto 2|<C2>"];
+R537[label="Tarea: T1-PY-100\nEncargado: FDEV-101\nProyecto: Proyecto 2"];
+R539[label="Tarea: T3-PY-100\nEncargado: QA-123\nProyecto: Proyecto 2|Tarea: T1-PY-101\nEncargado: FDEV-101\nProyecto: Proyecto 1"];
+R1541[label="<C1>|Tarea: T4-PY-101\nEncargado: FDEV-100\nProyecto: Proyecto 1|<C2>"];
+R1540[label="Tarea: T3-PY-101\nEncargado: QA-123\nProyecto: Proyecto 1"];
+R2539[label="Tarea: T1-PY-102\nEncargado: FDEV-101\nProyecto: Proyecto 3|Tarea: T2-PY-102\nEncargado: FDEV-414\nProyecto: Proyecto 3"];
+R1539:C1 -> R538;
+R538:C1 -> R537;
+R538:C2 -> R539;
+R1539:C2 -> R1541;
+R1541:C1 -> R1540;
+R1541:C2 -> R2539;
+}
